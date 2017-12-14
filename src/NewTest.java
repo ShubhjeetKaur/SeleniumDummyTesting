@@ -14,12 +14,12 @@ public class NewTest {
 
   @BeforeMethod
   public void beforeMethod() {
-	  System.out.println("Before Method");
+	  System.out.println("Before Method..");
   }
 
   @AfterMethod
   public void afterMethod() {
-	  System.out.println("After Method");
+	  System.out.println("After Method..");
 
   }
  
